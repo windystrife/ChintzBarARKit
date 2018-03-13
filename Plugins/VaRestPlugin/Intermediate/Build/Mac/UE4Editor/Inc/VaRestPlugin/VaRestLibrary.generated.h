@@ -18,12 +18,12 @@ class UVaRestJsonObject;
 #endif
 #define VARESTPLUGIN_VaRestLibrary_generated_h
 
-#define ChintzBarAR_copy_Plugins_VaRestPlugin_Source_VaRestPlugin_Classes_VaRestLibrary_h_18_GENERATED_BODY \
+#define ChintzBarAR_Plugins_VaRestPlugin_Source_VaRestPlugin_Classes_VaRestLibrary_h_18_GENERATED_BODY \
 	friend VARESTPLUGIN_API class UScriptStruct* Z_Construct_UScriptStruct_FVaRestCallResponse(); \
 	VARESTPLUGIN_API static class UScriptStruct* StaticStruct();
 
 
-#define ChintzBarAR_copy_Plugins_VaRestPlugin_Source_VaRestPlugin_Classes_VaRestLibrary_h_13_DELEGATE \
+#define ChintzBarAR_Plugins_VaRestPlugin_Source_VaRestPlugin_Classes_VaRestLibrary_h_13_DELEGATE \
 struct _Script_VaRestPlugin_eventVaRestCallDelegate_Parms \
 { \
 	UVaRestRequestJSON* Request; \
@@ -36,7 +36,7 @@ static inline void FVaRestCallDelegate_DelegateWrapper(const FScriptDelegate& Va
 }
 
 
-#define ChintzBarAR_copy_Plugins_VaRestPlugin_Source_VaRestPlugin_Classes_VaRestLibrary_h_46_RPC_WRAPPERS \
+#define ChintzBarAR_Plugins_VaRestPlugin_Source_VaRestPlugin_Classes_VaRestLibrary_h_46_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execCallURL) \
 	{ \
@@ -101,7 +101,7 @@ static inline void FVaRestCallDelegate_DelegateWrapper(const FScriptDelegate& Va
 	}
 
 
-#define ChintzBarAR_copy_Plugins_VaRestPlugin_Source_VaRestPlugin_Classes_VaRestLibrary_h_46_RPC_WRAPPERS_NO_PURE_DECLS \
+#define ChintzBarAR_Plugins_VaRestPlugin_Source_VaRestPlugin_Classes_VaRestLibrary_h_46_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execCallURL) \
 	{ \
@@ -166,7 +166,7 @@ static inline void FVaRestCallDelegate_DelegateWrapper(const FScriptDelegate& Va
 	}
 
 
-#define ChintzBarAR_copy_Plugins_VaRestPlugin_Source_VaRestPlugin_Classes_VaRestLibrary_h_46_INCLASS_NO_PURE_DECLS \
+#define ChintzBarAR_Plugins_VaRestPlugin_Source_VaRestPlugin_Classes_VaRestLibrary_h_46_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUVaRestLibrary(); \
 	friend VARESTPLUGIN_API class UClass* Z_Construct_UClass_UVaRestLibrary(); \
@@ -176,7 +176,7 @@ public: \
 	enum {IsIntrinsic=COMPILED_IN_INTRINSIC};
 
 
-#define ChintzBarAR_copy_Plugins_VaRestPlugin_Source_VaRestPlugin_Classes_VaRestLibrary_h_46_INCLASS \
+#define ChintzBarAR_Plugins_VaRestPlugin_Source_VaRestPlugin_Classes_VaRestLibrary_h_46_INCLASS \
 private: \
 	static void StaticRegisterNativesUVaRestLibrary(); \
 	friend VARESTPLUGIN_API class UClass* Z_Construct_UClass_UVaRestLibrary(); \
@@ -186,7 +186,7 @@ public: \
 	enum {IsIntrinsic=COMPILED_IN_INTRINSIC};
 
 
-#define ChintzBarAR_copy_Plugins_VaRestPlugin_Source_VaRestPlugin_Classes_VaRestLibrary_h_46_STANDARD_CONSTRUCTORS \
+#define ChintzBarAR_Plugins_VaRestPlugin_Source_VaRestPlugin_Classes_VaRestLibrary_h_46_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UVaRestLibrary(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UVaRestLibrary) \
@@ -199,7 +199,7 @@ private: \
 public:
 
 
-#define ChintzBarAR_copy_Plugins_VaRestPlugin_Source_VaRestPlugin_Classes_VaRestLibrary_h_46_ENHANCED_CONSTRUCTORS \
+#define ChintzBarAR_Plugins_VaRestPlugin_Source_VaRestPlugin_Classes_VaRestLibrary_h_46_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UVaRestLibrary(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -212,32 +212,32 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UVaRestLibrary); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UVaRestLibrary)
 
 
-#define ChintzBarAR_copy_Plugins_VaRestPlugin_Source_VaRestPlugin_Classes_VaRestLibrary_h_46_PRIVATE_PROPERTY_OFFSET
-#define ChintzBarAR_copy_Plugins_VaRestPlugin_Source_VaRestPlugin_Classes_VaRestLibrary_h_43_PROLOG
-#define ChintzBarAR_copy_Plugins_VaRestPlugin_Source_VaRestPlugin_Classes_VaRestLibrary_h_46_GENERATED_BODY_LEGACY \
+#define ChintzBarAR_Plugins_VaRestPlugin_Source_VaRestPlugin_Classes_VaRestLibrary_h_46_PRIVATE_PROPERTY_OFFSET
+#define ChintzBarAR_Plugins_VaRestPlugin_Source_VaRestPlugin_Classes_VaRestLibrary_h_43_PROLOG
+#define ChintzBarAR_Plugins_VaRestPlugin_Source_VaRestPlugin_Classes_VaRestLibrary_h_46_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	ChintzBarAR_copy_Plugins_VaRestPlugin_Source_VaRestPlugin_Classes_VaRestLibrary_h_46_PRIVATE_PROPERTY_OFFSET \
-	ChintzBarAR_copy_Plugins_VaRestPlugin_Source_VaRestPlugin_Classes_VaRestLibrary_h_46_RPC_WRAPPERS \
-	ChintzBarAR_copy_Plugins_VaRestPlugin_Source_VaRestPlugin_Classes_VaRestLibrary_h_46_INCLASS \
-	ChintzBarAR_copy_Plugins_VaRestPlugin_Source_VaRestPlugin_Classes_VaRestLibrary_h_46_STANDARD_CONSTRUCTORS \
+	ChintzBarAR_Plugins_VaRestPlugin_Source_VaRestPlugin_Classes_VaRestLibrary_h_46_PRIVATE_PROPERTY_OFFSET \
+	ChintzBarAR_Plugins_VaRestPlugin_Source_VaRestPlugin_Classes_VaRestLibrary_h_46_RPC_WRAPPERS \
+	ChintzBarAR_Plugins_VaRestPlugin_Source_VaRestPlugin_Classes_VaRestLibrary_h_46_INCLASS \
+	ChintzBarAR_Plugins_VaRestPlugin_Source_VaRestPlugin_Classes_VaRestLibrary_h_46_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define ChintzBarAR_copy_Plugins_VaRestPlugin_Source_VaRestPlugin_Classes_VaRestLibrary_h_46_GENERATED_BODY \
+#define ChintzBarAR_Plugins_VaRestPlugin_Source_VaRestPlugin_Classes_VaRestLibrary_h_46_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	ChintzBarAR_copy_Plugins_VaRestPlugin_Source_VaRestPlugin_Classes_VaRestLibrary_h_46_PRIVATE_PROPERTY_OFFSET \
-	ChintzBarAR_copy_Plugins_VaRestPlugin_Source_VaRestPlugin_Classes_VaRestLibrary_h_46_RPC_WRAPPERS_NO_PURE_DECLS \
-	ChintzBarAR_copy_Plugins_VaRestPlugin_Source_VaRestPlugin_Classes_VaRestLibrary_h_46_INCLASS_NO_PURE_DECLS \
-	ChintzBarAR_copy_Plugins_VaRestPlugin_Source_VaRestPlugin_Classes_VaRestLibrary_h_46_ENHANCED_CONSTRUCTORS \
+	ChintzBarAR_Plugins_VaRestPlugin_Source_VaRestPlugin_Classes_VaRestLibrary_h_46_PRIVATE_PROPERTY_OFFSET \
+	ChintzBarAR_Plugins_VaRestPlugin_Source_VaRestPlugin_Classes_VaRestLibrary_h_46_RPC_WRAPPERS_NO_PURE_DECLS \
+	ChintzBarAR_Plugins_VaRestPlugin_Source_VaRestPlugin_Classes_VaRestLibrary_h_46_INCLASS_NO_PURE_DECLS \
+	ChintzBarAR_Plugins_VaRestPlugin_Source_VaRestPlugin_Classes_VaRestLibrary_h_46_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID ChintzBarAR_copy_Plugins_VaRestPlugin_Source_VaRestPlugin_Classes_VaRestLibrary_h
+#define CURRENT_FILE_ID ChintzBarAR_Plugins_VaRestPlugin_Source_VaRestPlugin_Classes_VaRestLibrary_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

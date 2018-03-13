@@ -9,13 +9,13 @@
 				"ChintzBarAR",
 				"Mac",
 				"Debug",
-				"'/UE4_PROJECT/ChintzBarAR copy/ChintzBarAR.uproject'",
+				"/UE4_PROJECT/_appstore/ChintzBarAR/ChintzBarAR.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/Users/Shared/EpicGames/UE_4.18"
+				"cwd": "/UE4_PROJECT/UnrealEngine-4.18"
 			}
 		},
 		{
@@ -26,14 +26,14 @@
 				"ChintzBarAR",
 				"Mac",
 				"Debug",
-				"'/UE4_PROJECT/ChintzBarAR copy/ChintzBarAR.uproject'",
+				"/UE4_PROJECT/_appstore/ChintzBarAR/ChintzBarAR.uproject",
 				"-waitmutex",
 				"-clean"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/Users/Shared/EpicGames/UE_4.18"
+				"cwd": "/UE4_PROJECT/UnrealEngine-4.18"
 			}
 		},
 		{
@@ -44,13 +44,13 @@
 				"ChintzBarAR",
 				"Mac",
 				"DebugGame",
-				"'/UE4_PROJECT/ChintzBarAR copy/ChintzBarAR.uproject'",
+				"/UE4_PROJECT/_appstore/ChintzBarAR/ChintzBarAR.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/Users/Shared/EpicGames/UE_4.18"
+				"cwd": "/UE4_PROJECT/UnrealEngine-4.18"
 			}
 		},
 		{
@@ -61,14 +61,14 @@
 				"ChintzBarAR",
 				"Mac",
 				"DebugGame",
-				"'/UE4_PROJECT/ChintzBarAR copy/ChintzBarAR.uproject'",
+				"/UE4_PROJECT/_appstore/ChintzBarAR/ChintzBarAR.uproject",
 				"-waitmutex",
 				"-clean"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/Users/Shared/EpicGames/UE_4.18"
+				"cwd": "/UE4_PROJECT/UnrealEngine-4.18"
 			}
 		},
 		{
@@ -79,13 +79,13 @@
 				"ChintzBarAR",
 				"Mac",
 				"Development",
-				"'/UE4_PROJECT/ChintzBarAR copy/ChintzBarAR.uproject'",
+				"/UE4_PROJECT/_appstore/ChintzBarAR/ChintzBarAR.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/Users/Shared/EpicGames/UE_4.18"
+				"cwd": "/UE4_PROJECT/UnrealEngine-4.18"
 			}
 		},
 		{
@@ -96,14 +96,14 @@
 				"ChintzBarAR",
 				"Mac",
 				"Development",
-				"'/UE4_PROJECT/ChintzBarAR copy/ChintzBarAR.uproject'",
+				"/UE4_PROJECT/_appstore/ChintzBarAR/ChintzBarAR.uproject",
 				"-waitmutex",
 				"-clean"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/Users/Shared/EpicGames/UE_4.18"
+				"cwd": "/UE4_PROJECT/UnrealEngine-4.18"
 			}
 		},
 		{
@@ -114,13 +114,13 @@
 				"ChintzBarAR",
 				"Mac",
 				"Shipping",
-				"'/UE4_PROJECT/ChintzBarAR copy/ChintzBarAR.uproject'",
+				"/UE4_PROJECT/_appstore/ChintzBarAR/ChintzBarAR.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/Users/Shared/EpicGames/UE_4.18"
+				"cwd": "/UE4_PROJECT/UnrealEngine-4.18"
 			}
 		},
 		{
@@ -131,14 +131,14 @@
 				"ChintzBarAR",
 				"Mac",
 				"Shipping",
-				"'/UE4_PROJECT/ChintzBarAR copy/ChintzBarAR.uproject'",
+				"/UE4_PROJECT/_appstore/ChintzBarAR/ChintzBarAR.uproject",
 				"-waitmutex",
 				"-clean"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/Users/Shared/EpicGames/UE_4.18"
+				"cwd": "/UE4_PROJECT/UnrealEngine-4.18"
 			}
 		},
 		{
@@ -149,13 +149,13 @@
 				"ChintzBarAR",
 				"Mac",
 				"Test",
-				"'/UE4_PROJECT/ChintzBarAR copy/ChintzBarAR.uproject'",
+				"/UE4_PROJECT/_appstore/ChintzBarAR/ChintzBarAR.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/Users/Shared/EpicGames/UE_4.18"
+				"cwd": "/UE4_PROJECT/UnrealEngine-4.18"
 			}
 		},
 		{
@@ -166,14 +166,14 @@
 				"ChintzBarAR",
 				"Mac",
 				"Test",
-				"'/UE4_PROJECT/ChintzBarAR copy/ChintzBarAR.uproject'",
+				"/UE4_PROJECT/_appstore/ChintzBarAR/ChintzBarAR.uproject",
 				"-waitmutex",
 				"-clean"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/Users/Shared/EpicGames/UE_4.18"
+				"cwd": "/UE4_PROJECT/UnrealEngine-4.18"
 			}
 		},
 		{
@@ -184,13 +184,13 @@
 				"ChintzBarAR",
 				"IOS",
 				"Debug",
-				"'/UE4_PROJECT/ChintzBarAR copy/ChintzBarAR.uproject'",
+				"/UE4_PROJECT/_appstore/ChintzBarAR/ChintzBarAR.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/Users/Shared/EpicGames/UE_4.18"
+				"cwd": "/UE4_PROJECT/UnrealEngine-4.18"
 			}
 		},
 		{
@@ -201,14 +201,14 @@
 				"ChintzBarAR",
 				"IOS",
 				"Debug",
-				"'/UE4_PROJECT/ChintzBarAR copy/ChintzBarAR.uproject'",
+				"/UE4_PROJECT/_appstore/ChintzBarAR/ChintzBarAR.uproject",
 				"-waitmutex",
 				"-clean"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/Users/Shared/EpicGames/UE_4.18"
+				"cwd": "/UE4_PROJECT/UnrealEngine-4.18"
 			}
 		},
 		{
@@ -219,13 +219,13 @@
 				"ChintzBarAR",
 				"IOS",
 				"DebugGame",
-				"'/UE4_PROJECT/ChintzBarAR copy/ChintzBarAR.uproject'",
+				"/UE4_PROJECT/_appstore/ChintzBarAR/ChintzBarAR.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/Users/Shared/EpicGames/UE_4.18"
+				"cwd": "/UE4_PROJECT/UnrealEngine-4.18"
 			}
 		},
 		{
@@ -236,14 +236,14 @@
 				"ChintzBarAR",
 				"IOS",
 				"DebugGame",
-				"'/UE4_PROJECT/ChintzBarAR copy/ChintzBarAR.uproject'",
+				"/UE4_PROJECT/_appstore/ChintzBarAR/ChintzBarAR.uproject",
 				"-waitmutex",
 				"-clean"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/Users/Shared/EpicGames/UE_4.18"
+				"cwd": "/UE4_PROJECT/UnrealEngine-4.18"
 			}
 		},
 		{
@@ -254,13 +254,13 @@
 				"ChintzBarAR",
 				"IOS",
 				"Development",
-				"'/UE4_PROJECT/ChintzBarAR copy/ChintzBarAR.uproject'",
+				"/UE4_PROJECT/_appstore/ChintzBarAR/ChintzBarAR.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/Users/Shared/EpicGames/UE_4.18"
+				"cwd": "/UE4_PROJECT/UnrealEngine-4.18"
 			}
 		},
 		{
@@ -271,14 +271,14 @@
 				"ChintzBarAR",
 				"IOS",
 				"Development",
-				"'/UE4_PROJECT/ChintzBarAR copy/ChintzBarAR.uproject'",
+				"/UE4_PROJECT/_appstore/ChintzBarAR/ChintzBarAR.uproject",
 				"-waitmutex",
 				"-clean"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/Users/Shared/EpicGames/UE_4.18"
+				"cwd": "/UE4_PROJECT/UnrealEngine-4.18"
 			}
 		},
 		{
@@ -289,13 +289,13 @@
 				"ChintzBarAR",
 				"IOS",
 				"Shipping",
-				"'/UE4_PROJECT/ChintzBarAR copy/ChintzBarAR.uproject'",
+				"/UE4_PROJECT/_appstore/ChintzBarAR/ChintzBarAR.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/Users/Shared/EpicGames/UE_4.18"
+				"cwd": "/UE4_PROJECT/UnrealEngine-4.18"
 			}
 		},
 		{
@@ -306,14 +306,14 @@
 				"ChintzBarAR",
 				"IOS",
 				"Shipping",
-				"'/UE4_PROJECT/ChintzBarAR copy/ChintzBarAR.uproject'",
+				"/UE4_PROJECT/_appstore/ChintzBarAR/ChintzBarAR.uproject",
 				"-waitmutex",
 				"-clean"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/Users/Shared/EpicGames/UE_4.18"
+				"cwd": "/UE4_PROJECT/UnrealEngine-4.18"
 			}
 		},
 		{
@@ -324,13 +324,13 @@
 				"ChintzBarAR",
 				"IOS",
 				"Test",
-				"'/UE4_PROJECT/ChintzBarAR copy/ChintzBarAR.uproject'",
+				"/UE4_PROJECT/_appstore/ChintzBarAR/ChintzBarAR.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/Users/Shared/EpicGames/UE_4.18"
+				"cwd": "/UE4_PROJECT/UnrealEngine-4.18"
 			}
 		},
 		{
@@ -341,364 +341,14 @@
 				"ChintzBarAR",
 				"IOS",
 				"Test",
-				"'/UE4_PROJECT/ChintzBarAR copy/ChintzBarAR.uproject'",
+				"/UE4_PROJECT/_appstore/ChintzBarAR/ChintzBarAR.uproject",
 				"-waitmutex",
 				"-clean"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/Users/Shared/EpicGames/UE_4.18"
-			}
-		},
-		{
-			"taskName": "ChintzBarAR Android Debug Build",
-			"group": "build",
-			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
-			"args": [
-				"ChintzBarAR",
-				"Android",
-				"Debug",
-				"'/UE4_PROJECT/ChintzBarAR copy/ChintzBarAR.uproject'",
-				"-waitmutex"
-			],
-			"problemMatcher": "$msCompile",
-			"type": "shell",
-			"options": {
-				"cwd": "/Users/Shared/EpicGames/UE_4.18"
-			}
-		},
-		{
-			"taskName": "ChintzBarAR Android Debug Clean",
-			"group": "build",
-			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
-			"args": [
-				"ChintzBarAR",
-				"Android",
-				"Debug",
-				"'/UE4_PROJECT/ChintzBarAR copy/ChintzBarAR.uproject'",
-				"-waitmutex",
-				"-clean"
-			],
-			"problemMatcher": "$msCompile",
-			"type": "shell",
-			"options": {
-				"cwd": "/Users/Shared/EpicGames/UE_4.18"
-			}
-		},
-		{
-			"taskName": "ChintzBarAR Android DebugGame Build",
-			"group": "build",
-			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
-			"args": [
-				"ChintzBarAR",
-				"Android",
-				"DebugGame",
-				"'/UE4_PROJECT/ChintzBarAR copy/ChintzBarAR.uproject'",
-				"-waitmutex"
-			],
-			"problemMatcher": "$msCompile",
-			"type": "shell",
-			"options": {
-				"cwd": "/Users/Shared/EpicGames/UE_4.18"
-			}
-		},
-		{
-			"taskName": "ChintzBarAR Android DebugGame Clean",
-			"group": "build",
-			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
-			"args": [
-				"ChintzBarAR",
-				"Android",
-				"DebugGame",
-				"'/UE4_PROJECT/ChintzBarAR copy/ChintzBarAR.uproject'",
-				"-waitmutex",
-				"-clean"
-			],
-			"problemMatcher": "$msCompile",
-			"type": "shell",
-			"options": {
-				"cwd": "/Users/Shared/EpicGames/UE_4.18"
-			}
-		},
-		{
-			"taskName": "ChintzBarAR Android Development Build",
-			"group": "build",
-			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
-			"args": [
-				"ChintzBarAR",
-				"Android",
-				"Development",
-				"'/UE4_PROJECT/ChintzBarAR copy/ChintzBarAR.uproject'",
-				"-waitmutex"
-			],
-			"problemMatcher": "$msCompile",
-			"type": "shell",
-			"options": {
-				"cwd": "/Users/Shared/EpicGames/UE_4.18"
-			}
-		},
-		{
-			"taskName": "ChintzBarAR Android Development Clean",
-			"group": "build",
-			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
-			"args": [
-				"ChintzBarAR",
-				"Android",
-				"Development",
-				"'/UE4_PROJECT/ChintzBarAR copy/ChintzBarAR.uproject'",
-				"-waitmutex",
-				"-clean"
-			],
-			"problemMatcher": "$msCompile",
-			"type": "shell",
-			"options": {
-				"cwd": "/Users/Shared/EpicGames/UE_4.18"
-			}
-		},
-		{
-			"taskName": "ChintzBarAR Android Shipping Build",
-			"group": "build",
-			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
-			"args": [
-				"ChintzBarAR",
-				"Android",
-				"Shipping",
-				"'/UE4_PROJECT/ChintzBarAR copy/ChintzBarAR.uproject'",
-				"-waitmutex"
-			],
-			"problemMatcher": "$msCompile",
-			"type": "shell",
-			"options": {
-				"cwd": "/Users/Shared/EpicGames/UE_4.18"
-			}
-		},
-		{
-			"taskName": "ChintzBarAR Android Shipping Clean",
-			"group": "build",
-			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
-			"args": [
-				"ChintzBarAR",
-				"Android",
-				"Shipping",
-				"'/UE4_PROJECT/ChintzBarAR copy/ChintzBarAR.uproject'",
-				"-waitmutex",
-				"-clean"
-			],
-			"problemMatcher": "$msCompile",
-			"type": "shell",
-			"options": {
-				"cwd": "/Users/Shared/EpicGames/UE_4.18"
-			}
-		},
-		{
-			"taskName": "ChintzBarAR Android Test Build",
-			"group": "build",
-			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
-			"args": [
-				"ChintzBarAR",
-				"Android",
-				"Test",
-				"'/UE4_PROJECT/ChintzBarAR copy/ChintzBarAR.uproject'",
-				"-waitmutex"
-			],
-			"problemMatcher": "$msCompile",
-			"type": "shell",
-			"options": {
-				"cwd": "/Users/Shared/EpicGames/UE_4.18"
-			}
-		},
-		{
-			"taskName": "ChintzBarAR Android Test Clean",
-			"group": "build",
-			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
-			"args": [
-				"ChintzBarAR",
-				"Android",
-				"Test",
-				"'/UE4_PROJECT/ChintzBarAR copy/ChintzBarAR.uproject'",
-				"-waitmutex",
-				"-clean"
-			],
-			"problemMatcher": "$msCompile",
-			"type": "shell",
-			"options": {
-				"cwd": "/Users/Shared/EpicGames/UE_4.18"
-			}
-		},
-		{
-			"taskName": "ChintzBarAR HTML5 Debug Build",
-			"group": "build",
-			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
-			"args": [
-				"ChintzBarAR",
-				"HTML5",
-				"Debug",
-				"'/UE4_PROJECT/ChintzBarAR copy/ChintzBarAR.uproject'",
-				"-waitmutex"
-			],
-			"problemMatcher": "$msCompile",
-			"type": "shell",
-			"options": {
-				"cwd": "/Users/Shared/EpicGames/UE_4.18"
-			}
-		},
-		{
-			"taskName": "ChintzBarAR HTML5 Debug Clean",
-			"group": "build",
-			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
-			"args": [
-				"ChintzBarAR",
-				"HTML5",
-				"Debug",
-				"'/UE4_PROJECT/ChintzBarAR copy/ChintzBarAR.uproject'",
-				"-waitmutex",
-				"-clean"
-			],
-			"problemMatcher": "$msCompile",
-			"type": "shell",
-			"options": {
-				"cwd": "/Users/Shared/EpicGames/UE_4.18"
-			}
-		},
-		{
-			"taskName": "ChintzBarAR HTML5 DebugGame Build",
-			"group": "build",
-			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
-			"args": [
-				"ChintzBarAR",
-				"HTML5",
-				"DebugGame",
-				"'/UE4_PROJECT/ChintzBarAR copy/ChintzBarAR.uproject'",
-				"-waitmutex"
-			],
-			"problemMatcher": "$msCompile",
-			"type": "shell",
-			"options": {
-				"cwd": "/Users/Shared/EpicGames/UE_4.18"
-			}
-		},
-		{
-			"taskName": "ChintzBarAR HTML5 DebugGame Clean",
-			"group": "build",
-			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
-			"args": [
-				"ChintzBarAR",
-				"HTML5",
-				"DebugGame",
-				"'/UE4_PROJECT/ChintzBarAR copy/ChintzBarAR.uproject'",
-				"-waitmutex",
-				"-clean"
-			],
-			"problemMatcher": "$msCompile",
-			"type": "shell",
-			"options": {
-				"cwd": "/Users/Shared/EpicGames/UE_4.18"
-			}
-		},
-		{
-			"taskName": "ChintzBarAR HTML5 Development Build",
-			"group": "build",
-			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
-			"args": [
-				"ChintzBarAR",
-				"HTML5",
-				"Development",
-				"'/UE4_PROJECT/ChintzBarAR copy/ChintzBarAR.uproject'",
-				"-waitmutex"
-			],
-			"problemMatcher": "$msCompile",
-			"type": "shell",
-			"options": {
-				"cwd": "/Users/Shared/EpicGames/UE_4.18"
-			}
-		},
-		{
-			"taskName": "ChintzBarAR HTML5 Development Clean",
-			"group": "build",
-			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
-			"args": [
-				"ChintzBarAR",
-				"HTML5",
-				"Development",
-				"'/UE4_PROJECT/ChintzBarAR copy/ChintzBarAR.uproject'",
-				"-waitmutex",
-				"-clean"
-			],
-			"problemMatcher": "$msCompile",
-			"type": "shell",
-			"options": {
-				"cwd": "/Users/Shared/EpicGames/UE_4.18"
-			}
-		},
-		{
-			"taskName": "ChintzBarAR HTML5 Shipping Build",
-			"group": "build",
-			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
-			"args": [
-				"ChintzBarAR",
-				"HTML5",
-				"Shipping",
-				"'/UE4_PROJECT/ChintzBarAR copy/ChintzBarAR.uproject'",
-				"-waitmutex"
-			],
-			"problemMatcher": "$msCompile",
-			"type": "shell",
-			"options": {
-				"cwd": "/Users/Shared/EpicGames/UE_4.18"
-			}
-		},
-		{
-			"taskName": "ChintzBarAR HTML5 Shipping Clean",
-			"group": "build",
-			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
-			"args": [
-				"ChintzBarAR",
-				"HTML5",
-				"Shipping",
-				"'/UE4_PROJECT/ChintzBarAR copy/ChintzBarAR.uproject'",
-				"-waitmutex",
-				"-clean"
-			],
-			"problemMatcher": "$msCompile",
-			"type": "shell",
-			"options": {
-				"cwd": "/Users/Shared/EpicGames/UE_4.18"
-			}
-		},
-		{
-			"taskName": "ChintzBarAR HTML5 Test Build",
-			"group": "build",
-			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
-			"args": [
-				"ChintzBarAR",
-				"HTML5",
-				"Test",
-				"'/UE4_PROJECT/ChintzBarAR copy/ChintzBarAR.uproject'",
-				"-waitmutex"
-			],
-			"problemMatcher": "$msCompile",
-			"type": "shell",
-			"options": {
-				"cwd": "/Users/Shared/EpicGames/UE_4.18"
-			}
-		},
-		{
-			"taskName": "ChintzBarAR HTML5 Test Clean",
-			"group": "build",
-			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
-			"args": [
-				"ChintzBarAR",
-				"HTML5",
-				"Test",
-				"'/UE4_PROJECT/ChintzBarAR copy/ChintzBarAR.uproject'",
-				"-waitmutex",
-				"-clean"
-			],
-			"problemMatcher": "$msCompile",
-			"type": "shell",
-			"options": {
-				"cwd": "/Users/Shared/EpicGames/UE_4.18"
+				"cwd": "/UE4_PROJECT/UnrealEngine-4.18"
 			}
 		},
 		{
@@ -709,13 +359,13 @@
 				"ChintzBarAREditor",
 				"Mac",
 				"Debug",
-				"'/UE4_PROJECT/ChintzBarAR copy/ChintzBarAR.uproject'",
+				"/UE4_PROJECT/_appstore/ChintzBarAR/ChintzBarAR.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/Users/Shared/EpicGames/UE_4.18"
+				"cwd": "/UE4_PROJECT/UnrealEngine-4.18"
 			}
 		},
 		{
@@ -726,14 +376,14 @@
 				"ChintzBarAREditor",
 				"Mac",
 				"Debug",
-				"'/UE4_PROJECT/ChintzBarAR copy/ChintzBarAR.uproject'",
+				"/UE4_PROJECT/_appstore/ChintzBarAR/ChintzBarAR.uproject",
 				"-waitmutex",
 				"-clean"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/Users/Shared/EpicGames/UE_4.18"
+				"cwd": "/UE4_PROJECT/UnrealEngine-4.18"
 			}
 		},
 		{
@@ -744,13 +394,13 @@
 				"ChintzBarAREditor",
 				"Mac",
 				"DebugGame",
-				"'/UE4_PROJECT/ChintzBarAR copy/ChintzBarAR.uproject'",
+				"/UE4_PROJECT/_appstore/ChintzBarAR/ChintzBarAR.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/Users/Shared/EpicGames/UE_4.18"
+				"cwd": "/UE4_PROJECT/UnrealEngine-4.18"
 			}
 		},
 		{
@@ -761,14 +411,14 @@
 				"ChintzBarAREditor",
 				"Mac",
 				"DebugGame",
-				"'/UE4_PROJECT/ChintzBarAR copy/ChintzBarAR.uproject'",
+				"/UE4_PROJECT/_appstore/ChintzBarAR/ChintzBarAR.uproject",
 				"-waitmutex",
 				"-clean"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/Users/Shared/EpicGames/UE_4.18"
+				"cwd": "/UE4_PROJECT/UnrealEngine-4.18"
 			}
 		},
 		{
@@ -779,13 +429,13 @@
 				"ChintzBarAREditor",
 				"Mac",
 				"Development",
-				"'/UE4_PROJECT/ChintzBarAR copy/ChintzBarAR.uproject'",
+				"/UE4_PROJECT/_appstore/ChintzBarAR/ChintzBarAR.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/Users/Shared/EpicGames/UE_4.18"
+				"cwd": "/UE4_PROJECT/UnrealEngine-4.18"
 			}
 		},
 		{
@@ -796,14 +446,14 @@
 				"ChintzBarAREditor",
 				"Mac",
 				"Development",
-				"'/UE4_PROJECT/ChintzBarAR copy/ChintzBarAR.uproject'",
+				"/UE4_PROJECT/_appstore/ChintzBarAR/ChintzBarAR.uproject",
 				"-waitmutex",
 				"-clean"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/Users/Shared/EpicGames/UE_4.18"
+				"cwd": "/UE4_PROJECT/UnrealEngine-4.18"
 			}
 		}
 	]

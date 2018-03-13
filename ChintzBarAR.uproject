@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.18",
+	"EngineAssociation": "{26AB9000-2943-2D1E-E0F3-FB95A7D78C15}",
 	"Category": "",
 	"Description": "",
 	"Modules": [
@@ -14,10 +14,6 @@
 		}
 	],
 	"Plugins": [
-		{
-			"Name": "GoogleARCore",
-			"Enabled": true
-		},
 		{
 			"Name": "LocationServicesIOSImpl",
 			"Enabled": true

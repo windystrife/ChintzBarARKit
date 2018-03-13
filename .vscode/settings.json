@@ -1,15 +1,11 @@
 {
 	"typescript.tsc.autoDetect": "off",
 	"files.exclude": {
-		"/UE4_PROJECT/ChintzBarAR copy/.vscode": true,
-		"/UE4_PROJECT/ChintzBarAR copy/ChintzBarAR.xcworkspace": true,
-		"/UE4_PROJECT/ChintzBarAR copy/Content": true,
-		"/UE4_PROJECT/ChintzBarAR copy/Icon": true,
-		"/UE4_PROJECT/ChintzBarAR copy/Icon copy": true,
-		"/UE4_PROJECT/ChintzBarAR copy/Icon copy 2": true,
-		"/UE4_PROJECT/ChintzBarAR copy/Intermediate": true,
-		"/UE4_PROJECT/ChintzBarAR copy/Package": true,
-		"/UE4_PROJECT/ChintzBarAR copy/Saved": true,
-		"/UE4_PROJECT/ChintzBarAR copy/SplashScreen": true
+		"/UE4_PROJECT/_appstore/ChintzBarAR/.vscode": true,
+		"/UE4_PROJECT/_appstore/ChintzBarAR/Content": true,
+		"/UE4_PROJECT/_appstore/ChintzBarAR/DerivedDataCache": true,
+		"/UE4_PROJECT/_appstore/ChintzBarAR/Intermediate": true,
+		"/UE4_PROJECT/_appstore/ChintzBarAR/Saved": true,
+		"/UE4_PROJECT/_appstore/ChintzBarAR/package": true
 	}
 }

@@ -14,7 +14,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #define VARESTPLUGIN_VaRestTypes_generated_h
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID ChintzBarAR_copy_Plugins_VaRestPlugin_Source_VaRestPlugin_Classes_VaRestTypes_h
+#define CURRENT_FILE_ID ChintzBarAR_Plugins_VaRestPlugin_Source_VaRestPlugin_Classes_VaRestTypes_h
 
 
 #define FOREACH_ENUM_EREQUESTSTATUS(op) \
